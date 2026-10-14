@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">حارس التركيز</string>
+    <string name="a11y_desc">يراقب التطبيق المفتوح ليمنع التطبيقات المشتتة أثناء أوقات القفل، ويحمي التطبيق من الحذف والتعطيل. لا يقرأ أي بيانات شخصية ولا يرسل شيئاً خارج الهاتف.</string>
+</resources>
